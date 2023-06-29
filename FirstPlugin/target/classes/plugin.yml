@@ -1,0 +1,8 @@
+name: TestPlugin
+version: '1.0'
+main: org.inderjeet.firstplugin.TestPlugin
+api-version: 1.19
+commands:
+  heal:
+  test:
+  config:
